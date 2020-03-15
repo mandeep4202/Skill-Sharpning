@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/target11/multithreading/sync2/SynchronizationDemo.java" line="18" />
+    <bookmark url="file://$PROJECT_DIR$/src/com/target11/multithreading/sync2/SynchronizationDemo.java" line="14" />
+    <bookmark url="file://$PROJECT_DIR$/src/com/target11/dataStructure/sortingAlgorithm/ShellSort.java" line="28" />
+    <bookmark url="file://$PROJECT_DIR$/src/com/target11/dataStructure/sortingAlgorithm/InsertionSortPRac.java" line="22" />
+    <bookmark url="file://$PROJECT_DIR$/src/com/target11/dataStructure/sortingAlgorithm/ShellSortPrac.java" line="24" />
+    <bookmark url="file://$PROJECT_DIR$/src/com/target11/dataStructure/sortingAlgorithm/MergingLogic.java" line="29" />
+    <bookmark url="file://$PROJECT_DIR$/src/com/target11/dataStructure/sortingAlgorithm/MergingLogic.java" line="24" />
+    <bookmark url="file://$PROJECT_DIR$/src/com/target11/bits/EvenOdd.java" line="10" />
+    <bookmark url="file://$PROJECT_DIR$/src/com/target11/bits/MapPrinting.java" line="35" />
+    <bookmark url="file://$PROJECT_DIR$/src/com/target11/bits/FinallyWithReturn.java" line="25" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24d596d1-35c4-44e9-9043-c0dfae3e22b4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SkillSharpning" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/target11/algorithm/GivingGrace.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>HashMap&lt;Character, Integer&gt;</find>
+      <find>*pa</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/target11/algorithm/Anagram.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/dataStructure/utilites/Testing.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/Recursion/BasicRecusion.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/Recursion/BasicRecursion.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/Recursion/TreeRecursion.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/Recursion/NestedRecursion.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/Recursion/FactorialRecursion.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/Recursion/SumOfNRecursion.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/Recursion/PowerRecursion.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/utilites/NullTesting.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/EvenOdd.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/MapPrinting.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/SecondLargest.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/Armstrong.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/Running.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/algorithm/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/MethodWithWC.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/FinallyWithoutReturn.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/FinallyWithReturn.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/InterfaceTesting.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/ExceptionInOverriding.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/StaticMemberExecution.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/dataStructure/searchingAlgorithm/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/algorithm/ArrayRunner.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/algorithm/ArrayUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/algorithm/MergingAlgo.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/algorithm/FindingMissingMulNo.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/ShortReturnType.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/java8/lymbdaexpression/Demo3MethodRef.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/java8/lymbdaexpression/AllinOne.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/InterfaceTesting12.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/TwoDimentionArray.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/PatternWithSpace.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/algorithm/MinAndMaxSum.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/Testing.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/GenericPrinter.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/TreeSetPractise.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/SetWithoutHashCode.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/SortingUsingComparator.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/algorithm/Parentesis.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/bits/MyCode.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/dataStructure/sortingAlgorithm/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/multithreading/concurrentThreading/ExecutorDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/dataStructure/DSImpl/Node.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/dataStructure/DSImpl/MyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/dataStructure/DSImpl/MyListRunner.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/dataStructure/DSImpl/MyLinkedListImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/algorithm/TImeConversion.java" />
+        <option value="$PROJECT_DIR$/src/com/target11/algorithm/GivingGrace.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="9" />
+    <option name="y" value="19" />
+    <option name="width" value="1347" />
+    <option name="height" value="689" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SkillSharpning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntelliJ Workspace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SkillSharpning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntelliJ Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SkillSharpning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntelliJ Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="target11" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsDialog.application.dockerMachine" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.target11.bits" />
+      <recent name="com.target11.Recursion" />
+      <recent name="com.target11.dataStructure.sortingAlgorithm" />
+      <recent name="com.target11.multithreading.sync2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\language\Work_Space_Hub\IntelliJ Workspace\src\com\target11\bits" />
+      <recent name="E:\language\Work_Space_Hub\IntelliJ Workspace\src\com\target11\java8\lymbdaexpression" />
+      <recent name="E:\language\Work_Space_Hub\IntelliJ Workspace\src\com\target11\multithreading\sync2" />
+      <recent name="E:\language\Work_Space_Hub\IntelliJ Workspace\src\com\target11\multithreading" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TImeConversion">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.target11.dataStructure.sortingAlgorithm.BubbleSort" />
+      <module name="SkillSharpning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.target11.dataStructure.sortingAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExecutorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.target11.multithreading.concurrentThreading.ExecutorDemo" />
+      <module name="SkillSharpning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.target11.multithreading.concurrentThreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.target11.bits.MyCode" />
+      <module name="SkillSharpning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.target11.bits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyListRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.target11.dataStructure.DSImpl.linkedlistimpl.MyListRunner" />
+      <module name="SkillSharpning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.target11.dataStructure.DSImpl.linkedlistimpl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TImeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.target11.algorithm.TImeConversion" />
+      <module name="SkillSharpning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.target11.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TImeConversion" />
+        <item itemvalue="Application.MyListRunner" />
+        <item itemvalue="Application.ExecutorDemo" />
+        <item itemvalue="Application.MyCode" />
+        <item itemvalue="Application.BubbleSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24d596d1-35c4-44e9-9043-c0dfae3e22b4" name="Default Changelist" comment="" />
+      <created>1566409817916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566409817916</updated>
+      <workItem from="1566409821008" duration="1156000" />
+      <workItem from="1566487984410" duration="163000" />
+      <workItem from="1566488177115" duration="4183000" />
+      <workItem from="1566576459750" duration="5878000" />
+      <workItem from="1566626516709" duration="1285000" />
+      <workItem from="1566667246570" duration="7210000" />
+      <workItem from="1566716346698" duration="2152000" />
+      <workItem from="1567011130217" duration="951000" />
+      <workItem from="1567097017135" duration="643000" />
+      <workItem from="1567146053301" duration="10468000" />
+      <workItem from="1567173494044" duration="6956000" />
+      <workItem from="1567272364917" duration="5872000" />
+      <workItem from="1567316883931" duration="1335000" />
+      <workItem from="1567350633631" duration="1013000" />
+      <workItem from="1567352854945" duration="206000" />
+      <workItem from="1567353123983" duration="4505000" />
+      <workItem from="1567403875271" duration="5166000" />
+      <workItem from="1567441985372" duration="614000" />
+      <workItem from="1567521380411" duration="1292000" />
+      <workItem from="1567572748194" duration="605000" />
+      <workItem from="1567612140834" duration="5587000" />
+      <workItem from="1567660261693" duration="351000" />
+      <workItem from="1567701314362" duration="5163000" />
+      <workItem from="1567872700440" duration="1236000" />
+      <workItem from="1567917928729" duration="10241000" />
+      <workItem from="1567962372997" duration="764000" />
+      <workItem from="1568043149597" duration="940000" />
+      <workItem from="1568126488361" duration="5473000" />
+      <workItem from="1568217726924" duration="723000" />
+      <workItem from="1568435114006" duration="12190000" />
+      <workItem from="1568515029769" duration="4070000" />
+      <workItem from="1568772049224" duration="3708000" />
+      <workItem from="1569052836530" duration="573000" />
+      <workItem from="1569053479374" duration="818000" />
+      <workItem from="1569054347087" duration="25000" />
+      <workItem from="1569054448404" duration="8031000" />
+      <workItem from="1569075341085" duration="394000" />
+      <workItem from="1569131897108" duration="7360000" />
+      <workItem from="1569149955350" duration="2648000" />
+      <workItem from="1569293413754" duration="5666000" />
+      <workItem from="1569320410118" duration="9247000" />
+      <workItem from="1569429649104" duration="1600000" />
+      <workItem from="1569516368986" duration="2795000" />
+      <workItem from="1569600599922" duration="2993000" />
+      <workItem from="1569689342611" duration="3182000" />
+      <workItem from="1569727619577" duration="13927000" />
+      <workItem from="1569748117816" duration="7268000" />
+      <workItem from="1569947621097" duration="1691000" />
+      <workItem from="1569986691764" duration="8021000" />
+      <workItem from="1570024715992" duration="975000" />
+      <workItem from="1570028822763" duration="2118000" />
+      <workItem from="1570342083810" duration="3404000" />
+      <workItem from="1570464175145" duration="2998000" />
+      <workItem from="1570503923742" duration="594000" />
+      <workItem from="1570522200715" duration="5262000" />
+      <workItem from="1570535156867" duration="1099000" />
+      <workItem from="1570538673722" duration="9185000" />
+      <workItem from="1571459973573" duration="9113000" />
+      <workItem from="1571494766617" duration="3767000" />
+      <workItem from="1571542353202" duration="686000" />
+      <workItem from="1571553615198" duration="1981000" />
+      <workItem from="1584293254790" duration="859000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="230379000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.2145749" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5008183" side_tool="true" weight="0.15279879" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.20458265" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2913257" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.23076923" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5015129" side_tool="true" weight="0.2667758" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.17184943" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.21028744" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5008183" side_tool="true" weight="0.15279879" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.20458265" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2913257" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.23076923" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5015129" side_tool="true" weight="0.2667758" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.17184943" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/target11/algorithm/MinAndMaxSum.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/target11/algorithm/MinAndMaxSum.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/target11/algorithm/Parentesis.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/target11/algorithm/Parentesis.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/target11/algorithm/Parentesis.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/target11/algorithm/Parentesis.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="n - 1" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>a.length-1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arrayToSort[j - gap]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/target11/algorithm/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/bits/ExceptionInOverriding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/bits/FinallyWithoutReturn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/bits/FinallyWithReturn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/bits/StaticMemberExecution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/dataStructure/searchingAlgorithm/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/dataStructure/sortingAlgorithm/MergingLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="39" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/algorithm/ArrayRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/algorithm/ArrayUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/algorithm/MergingAlgo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/bits/ShortReturnType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/java8/lymbdaexpression/Demo2_MethodRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/java8/lymbdaexpression/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/java8/lymbdaexpression/Demo3MethodRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/java8/lymbdaexpression/AllinOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/java8/lymbdaexpression/Demo5_ParticularInstanceMethodReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/java8/lymbdaexpression/Demo6_MethodReferenceExample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/java8/lymbdaexpression/Demo7_ArbitraryInstanceMethodReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/java8/lymbdaexpression/Demo8_MethodReferenceExample4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/java8/lymbdaexpression/Demo9_StreamDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/bits/InterfaceTesting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/java8/lymbdaexpression/Demo4_StaticMethodReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="64" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/bits/InterfaceTesting12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#62#63#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/bits/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/bits/TwoDimentionArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="65" column="40" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/bits/PatternWithSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/algorithm/MinAndMaxSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/algorithm/Anagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/algorithm/FindDuplicateChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/algorithm/FindingMissingMulNo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/bits/Testing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/bits/GenericPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/bits/MapPrinting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/bits/SetWithoutHashCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/bits/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/bits/TreeSetPractise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/bits/MyCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/bits/SortingUsingComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/algorithm/Parentesis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#998#999#0" expanded="true" />
+            <element signature="e#1061#1062#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/dataStructure/sortingAlgorithm/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/multithreading/concurrentThreading/ExecutorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/StringBuilder.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/AbstractStringBuilder.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/Object.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/target11/dataStructure/DSImpl/linkedlistimpl/MyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/dataStructure/DSImpl/linkedlistimpl/MyLinkedListImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/dataStructure/DSImpl/linkedlistimpl/MyListRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/dataStructure/DSImpl/linkedlistimpl/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/target11/algorithm/TImeConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0/src.zip!/java/lang/String.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/target11/algorithm/GivingGrace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
